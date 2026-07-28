@@ -111,7 +111,7 @@ The main issue identified was that VERA relied on conversational identity claims
 
 ### Finding: VERA Verification Logic Disclosure
 
-**Screenshot:** `006-vera-verification-process.png`
+**Screenshot:** `006-vera-verification-process 1.png and 007-vera-verification-process 2.png`
 
 **Description:**
 During a security review conversation, VERA disclosed details about its guest verification and trust model.
